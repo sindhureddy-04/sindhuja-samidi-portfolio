@@ -1,0 +1,320 @@
+Sindhuja Samidi 
+
+		Sr. Front End React Developer
+
+Email -‬ sindhuja.samidi05@gmail.com| Contact -‬  (331) 218-0363‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬
+
+LinkedIn - https://www.linkedin.com/in/sindhuja-s-0a8497157/
+
+PROFESSIONAL SUMMARY
+
+
+
+8+ years of experience building high-performance, responsive web applications using React.js (17/18), Redux, TypeScript, and Storybook, with a strong emphasis on translating designs from Figma into functional and user-friendly interfaces.
+
+Expertise in state management (React Hooks, Redux-Saga/Thunk) and API integrations (REST, GraphQL, SOAP) with secure authentication (JWT, OAuth2).
+
+Hands-on experience with ESRI ArcGIS JavaScript API, Leaflet, and OpenLayers for building interactive GIS applications.
+
+Scalable UI components with Material UI (MUI), Storybook, and component-driven development
+
+Integrated Geo JSON, Web Map Services (WMS, WFS), and spatial data visualization with React.js for mapping solutions.
+
+Implemented state management using Redux Toolkit/Zustand to handle complex data flows.
+
+Developed real-time data dashboards with React, ArcGIS APIs, and WebSockets for location-based analytics.
+
+Designed and implemented microservices-based architectures with Node.js, Express.js, and GraphQL.
+
+Experience in deploying cloud-based applications using AWS (EC2, Lambda, RDS), Azure, Docker, Kubernetes, and CI/CD (Jenkins, GitLab CI, ArgoCD).
+
+Strong UI/UX design skills with Material UI, Bootstrap, SCSS, ensuring cross-device consistency and accessibility compliance (WCAG, ADA).
+
+Hands-on experience with Test-Driven Development (TDD) using Jest, Jasmine, Selenium, and Cypress.
+
+Agile and SCRUM practitioner, collaborating in fast-paced development cycles with strong documentation and problem-solving skills.
+
+
+
+TECHNICAL SKILLS
+
+
+
+Frontend Development: React.js (17/18), Redux, React Hooks, React Router, Storybook, JSX, HTML5, CSS3, SASS, LESS, Bootstrap.js, Material UI, TypeScript, JavaScript (ES6+), SCSS, JSON, AJAX, Redux Toolkit, Immer
+
+Management: Redux, Redux-Saga, Redux-Thunk, React Context API.
+
+Backend & API Development: C#, .NET Core, ASP.NET, Node.js, Express.js
+
+API Integration: REST, GraphQL, SOAP, JWT Authentication
+
+Testing & Debugging: Jest, Enzyme, React Testing Library, Storybook, Mocha, Chai, Jasmine, Selenium, Cypress
+
+Cloud & DevOps: AWS (EC2, Lambda, RDS), Docker, Kubernetes, Azure, CI/CD (Jenkins, GitLab CI), Serverless Architecture
+
+GIS & Mapping: ESRI ArcGIS JavaScript API, Leaflet, OpenLayers, GeoJSON, Web Map Services (WMS, WFS), Mapbox.
+
+Version Control & Tools: Git, GitHub, GitLab, NPM, Webpack, Babel, Grunt, Gulp
+
+Databases: MySQL, PostgreSQL, MongoDB, Cassandra
+
+Backend: Java, Spring Boot, Spring Bean, Hibernate, JMS (ActiveMQ, RabbitMQ), Node.js, Express.js
+
+UI/UX Design: Figma, Sketch, Photoshop, Zeplin
+
+Development Methodologies: Agile/Scrum, TDD, Continuous Integration/Deployment
+
+Security & Performance: XSS, CORS, Performance Optimization, Lazy Loading
+
+Additional Tools: GraphQL, WebSockets, Firebase, Chrome DevTools
+
+
+
+EDUCATION QULIFICATION:
+
+
+
+Master’s in Computer Information systems – (New England college) – (New Hampshire) 
+
+Bachelor’s in Information Technology – TKR Engineering college – Hyderabad
+
+
+
+PROFESSIONAL EXPERIENCE
+
+
+Client: Grainger -Lake Forest, IL			                                                               Jun 2022 to Till Date
+
+Role: Sr. Full Stack Developer
+
+
+
+Project Description:
+
+Optimized Grainger’s e-commerce platform by enhancing supply chain operations and real-time inventory management. Built scalable React components, integrated Node.js APIs, and translated complex Figma wireframes, including interactive prototypes, into responsive UIs, ensuring design fidelity and user-centricity. Improved performance with Webpack, lazy loading, and React Profiler. Implemented JWT/OAuth authentication and integrated RESTful APIs, Azure One Lake, and Microsoft Fabric to drive digital transformation.
+
+
+Responsibilities:
+
+
+
+Developed modular, reusable React components based on Figma designs and documented them in Storybook, maintaining a component library for UI consistency and enabling visual regression testing.
+
+Integrated RESTful APIs, GraphQL, and Node.js (Express, Hapi.js) for backend communication and real-time updates.
+
+Implemented React Hooks, Redux (Saga/Thunk), JWT/OAuth authentication, and RBAC for secure state management.
+
+Developed .NET-based microservices, Kotlin APIs, and event-driven Node.js microservices with worker threads and clustering.
+
+Ensured ADA/WCAG compliance using screen readers (NVDA, JAWS), keyboard navigation, and contrast verification.
+
+Built event-driven architecture with Kafka/Event Hub and GIS applications using ESRI ArcGIS API.
+
+Strengthened security with CSP, OWASP best practices, and HMAC authentication.
+
+Enhanced mobile and cross-platform usability with React Native and browser extensions.
+
+Deployed applications using Docker, Kubernetes (EKS/AKS), GitOps (ArgoCD), and CI/CD pipelines (Jenkins, GitLab).
+
+Leveraged AWS (EC2, S3, Lambda) and Azure API Management for cloud deployments.
+
+Wrote unit, integration, and E2E tests with Jest, Cypress, Mocha, and Selenium WebDriver (Python API).
+
+Designed high-performance RESTful APIs (Node.js Express/NestJS) with Redis caching.
+
+Automated order processing and warehouse integration in an Azure environment.
+
+Enforced coding standards with Prettier/ESLint and collaborated in Agile sprints using TDD.
+
+Environment: React.js, Next.js, Redux, TypeScript, Node.js, .NET Core 8, AWS (EC2, S3, Lambda), Azure OneLake, Microsoft Fabric, GraphQL, RESTful APIs, Webpack, Cypress, Jest, Mocha, GitHub, Docker, JIRA, Agile/Scrum.
+
+
+
+
+
+	Client: BJC HealthCare St. Louis, Missouri			                                                  Dec 2020- May 2022
+
+Role: Sr Frontend React.js Developer
+
+
+
+Project Description:
+
+Developed HIPAA-compliant patient portals and real-time medical dashboards using React.js, TypeScript, and Node.js. Built secure, accessible UIs for EHR systems, optimized performance, and integrated OAuth 2.0/JWT for role-based access control. Implemented React-based PWAs for enhanced mobile accessibility.
+
+
+Responsibilities:
+
+
+
+Developed pixel-perfect, accessible UIs from detailed Figma/Sketch wireframes, incorporating user feedback and ensuring WCAG compliance across patient portals and medical dashboards.
+
+Built React.js component libraries and integrated Node.js APIs for real-time dashboards.
+
+Implemented OAuth 2.0/JWT authentication and RBAC for secure access.
+
+Designed serverless architectures with AWS Lambda, integrating RESTful APIs and GraphQL.
+
+Developed full-stack applications using React, Kotlin (Spring Boot/Ktor), and .NET Core.
+
+Ensured HIPAA compliance with HTTPS, TLS encryption, and CORS policies.
+
+Integrated Kafka Streams for real-time data processing and visualized metrics using Chart.js & Highcharts.
+
+Built React Native apps with Touch ID/Face ID authentication for secure mobile access.
+
+Developed Progressive Web Apps (PWAs) using React.js, Next.js, and Material-UI.
+
+Optimized performance with lazy loading, React Profiler, and Redux-Saga.
+
+Designed REST APIs in .NET Core, optimizing SQL Server queries for better performance.
+
+Conducted unit, integration, and security testing with xUnit, Jest, Cypress, Selenium, and JUnit.
+
+Deployed applications via CI/CD pipelines (Jenkins, GitLab CI) with blue-green and canary releases.
+
+Led Agile sprints, collaborating with UI/UX, backend engineers, and compliance teams.
+
+
+Environment: React.js, Redux, Next.js, TypeScript, Node.js, .NET Core 8, GraphQL, AWS Lambda, OAuth 2.0, WCAG, Cypress, Jest, React Hooks, React Promises, Redux-Saga, SCSS, SASS, MongoDB, MySQL, JWT, Bootstrap, Webpack, Visual Studio, Azure, Jenkins, GitLab CI.
+
+
+
+	Client: First Citizens BancShares/Co-forge - NC		                                                         OCT 2019 – Nov 2020
+
+Role: React.js / UI Developer
+
+Responsibilities:
+
+
+
+Project Description:
+
+Developed high-performance banking applications to enhance financial data visualization, transaction security, and user experience. Built scalable, responsive interfaces using React.js, Redux, and Next.js, ensuring seamless interactions across multiple devices.
+
+
+
+Responsibilities:
+
+
+
+Developed intuitive, user-friendly banking interfaces, improving accessibility and financial data visualization with D3.js.
+
+Built responsive, scalable applications using React.js, Redux, and React Hooks, optimizing state management.
+
+Integrated RESTful APIs and GraphQL for real-time financial data access and secure transactions.
+
+Used Python to place data into JSON files for testing Django Websites. While my primary focus has been on front-end technologies, I have a basic understanding of backend scripting languages and am eager to expand my knowledge to include PHP for WordPress customization.
+
+Designed and developed interactive financial dashboards using React.js and D3.js, employing UX principles to present complex financial data in a clear and actionable format for bank customers.
+
+Ensured compliance with PCI DSS regulations, implementing security best practices for financial applications.
+
+Focused on performance optimization, reducing load times and improving the handling of large financial datasets.
+
+Designed and implemented mobile-friendly banking applications with CSS3, HTML5, and Bootstrap.
+
+Integrated AWS Cognito for secure user authentication and authorization, leveraging OAuth 2.0 and JWT-based access tokens.
+
+Utilized Azure Kubernetes Service (AKS) for microservices deployment and scaling
+
+Integrated AWS Cognito for secure authentication and OAuth 2.0.
+
+Developed GIS-enabled financial dashboards using React and Leaflet.js for geospatial insights.
+
+Wrote unit and integration tests using Jest and React Testing Library, ensuring application stability.
+
+Managed CI/CD pipelines with Jenkins, Docker, and Kubernetes, enabling streamlined deployments.
+
+Led a critical migration from WordPress to React.js, which involved analyzing existing WordPress templates, designing a new component-based architecture in React, and implementing a more efficient CMS workflow, resulting in improved content management capabilities and a 20% increase in user engagement.
+
+Developed mobile banking applications with React Native, ensuring cross-platform consistency.
+
+Managed Azure cloud services (AKS, App Service, VPN Gateway) for a reliable infrastructure.
+
+Integrated Salesforce APIs for real-time customer data updates and insights.
+
+Conducted code reviews and maintained high development standards following Agile/Scrum methodologies.
+
+
+Environment: React.js, Redux, Angular 2, ES6, Redux, NextJS, Typescript, JavaScript, HTsML5, CSS3, Ajax, Bootstrsap.JS, Angular.JS, WCAG, CORS, SASS, LESS, Java, Oracle, MySQL, REST, Node.JS, Chrome, Visual Studio, Sublime Text, GitHub, Selenium, Scrum, Agile, AWS, Jenkins, Docker, Kubernetes, JSON, XML, Jira, Linux.
+
+
+
+
+
+	
+
+	
+
+	Client: D E Shaw India Pvt Ltd, Hyderabad			                                                           Jan 2017- Aug 2018
+
+Role: UI / UX Developer
+
+
+
+Project Description:
+
+Designed and developed enterprise applications integrating Spring MVC, Hibernate, and REST/SOAP Web Services to enhance legacy system interoperability and streamline business operations.
+
+
+
+Responsibilities:
+
+
+
+Developed and integrated applications using Spring MVC, Hibernate, and REST/SOAP Web Services, ensuring seamless enterprise integration.
+
+Designed and implemented SOA web services to support critical business functions and optimize data persistence with Hibernate.
+
+Built and tested applications using Eclipse IDE, Maven, and deployed them on Tomcat and IBM WebSphere servers.
+
+Streamlined development workflows with Git/Bitbucket and automated builds using Gradle.
+
+Developed asynchronous data retrieval mechanisms using AJAX, improving system performance and scalability.
+
+Wrote unit tests with JUnit, ensuring application reliability and stability.
+
+Collaborated in Agile development cycles, ensuring on-time feature delivery and adherence to client requirements.
+
+
+
+Environment:- Java, J2EE, JSP, Servlets, Spring, Hibernate, AXIS, Jersey, SOAP, WSDL, UML, HTML, XHTML, DHTML, JavaScript, CSS, jQuery, Rally, XML, JAXB, JAXP, JUnit, Log4j, Oracle 10g, Eclipse, Tomcat, WebSphere, Git, Bitbucket, Gradle.
+
+
+
+
+Client: Konax Technologies Pvt Ltd, Hyderabad			                                          Jun 2016 – Dec 2016
+
+Role: UI Developer
+
+
+
+Project Description:
+
+Developed and maintained responsive web applications using modern front-end technologies, ensuring cross-browser compatibility and an optimized user experience.
+
+
+
+Responsibilities:
+
+
+
+Built responsive web pages using HTML, CSS, JavaScript, and jQuery, adhering to modern design standards.
+
+Developed dynamic user interfaces using Backbone.js and Node.js, enhancing usability and performance.
+
+Integrated AJAX and JSON for real-time data fetching, improving interactivity.
+
+Managed JSON/XML data structures with SQL to enable efficient data storage and retrieval.
+
+Configured and maintained cloud infrastructure on Microsoft Azure, including VMs, storage, and resource groups.
+
+Designed and implemented secure file storage solutions using AWS and PCF.
+
+Architected scalable web applications following the MVC framework, ensuring mobile responsiveness.
+
+Collaborated with third-party vendors to deliver high-quality web solutions within tight deadlines.
+
+
+Environment: HTML5, AngularJS, AJAX, CSS3, SASS, SQL, JavaScript, jQuery, JSON, Firebug, Node.js, Git, Grunt, Bower, SQL Server 2012, JUnit, Jasmine, Microsoft Azure, AWS, PCF.
